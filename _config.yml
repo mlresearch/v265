@@ -6,7 +6,7 @@ year: '2025'
 publisher: PMLR
 series: Proceedings of Machine Learning Research
 volume: '265'
-start: &1 2025-01-07
+start: 2025-01-07
 end: 2025-01-09
 published: 2025-01-12
 conference_number: '6'
@@ -73,7 +73,7 @@ conference:
   url: https://www.nldl.org
   location: UiT The Arctic University, Tromsø, Norway
   dates:
-  - *1
+  - 2025-01-07
   - 2025-01-08
   - 2025-01-09
 analytics:
